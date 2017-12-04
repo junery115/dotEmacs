@@ -1,0 +1,84 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.awt.*" include nil nil [1 19])
+            ("javax.swing.*" include nil nil [20 41])
+            ("JavaGame" type
+               (:typemodifiers ("public")
+                :superclasses "JFrame"
+                :members 
+                  ( ("table" variable (:type "JTable") (reparse-symbol class_member_declaration) [86 99])
+                    ("JavaGame" function
+                       (:constructor-flag t
+                        :typemodifiers ("public"))
+                        (reparse-symbol class_member_declaration) [105 651])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [681 694]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [657 873]))                  
+                :type "class")
+                nil [45 876]))          
+      :file "JavaGame.java"
+      :pointmax 877
+      :fsize 876
+      :lastmodtime '(22495 43279 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.Scanner" include nil nil [1 26])
+            ("calories" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [77 90]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [53 538]))                  
+                :type "class")
+                nil [27 540]))          
+      :file "calories.java"
+      :pointmax 540
+      :fsize 539
+      :lastmodtime '(21883 893 0 0)
+      :unmatched-syntax nil)
+
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("Calculator" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [80 93]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [56 371]))                  
+                :type "class")
+                nil [27 374]))          
+      :file "demonstration.java"
+      :pointmax 375
+      :fsize 374
+      :lastmodtime '(21914 48866 0 0)
+      :unmatched-syntax '((IDENTIFIER 17 . 24) (DOT 16 . 17) (IDENTIFIER 12 . 16) (DOT 11 . 12) (IDENTIFIER 7 . 11) (IDENTIFIER 1 . 6))))
+  :file "!Users!japheth!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

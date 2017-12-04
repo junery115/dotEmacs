@@ -1,0 +1,31 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".google.com"
+  [url-cookie "NID" "91=aptsq9d1-NOisYqZuUbl7vrUcAh6q0HsKRaaLfVV_YgRzwaxsh2uD49ZJIdC_maxbPQM0iI0lyFZoFlm5R1y8S4weOcDXukjVNy8h8QXJyaE0pouy-QtEZwKHav2JMFt" "18-May-2017 10:30:41.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HttpOnly" nil "18-May-2017 10:30:41.00 GMT" "/" ".google.com" nil])
+ (".google.cm"
+  [url-cookie "NID" "91=GsZzscjVWa1q6q5EPImmkKKsEbBC3F8SniKG3kdPpfwk0FMFX8aNnwusQJUyrtbhbhKEIf2PQMhd5RwBAFuwm_IQRM2VyLh_O5AU2pZp2k3x5aprSh7tOzHXIMhIvYRt" "18-May-2017 10:30:42.00 GMT" "/" ".google.cm" nil]
+  [url-cookie "HttpOnly" nil "18-May-2017 10:30:42.00 GMT" "/" ".google.cm" nil])
+ (".facebook.com"
+  [url-cookie "datr" "0wISWK5fOIRf3Cv7RfDfxsiq" "27-Oct-2018 13:36:19.00 GMT" "/" ".facebook.com" nil]
+  [url-cookie "csm" "2" "25-Jan-2017 13:34:50.00 GMT" "/" ".facebook.com" nil]
+  [url-cookie "fr" "0k1xPfu4Y160KIDRW.AWVneDNihjmFuKyQeaQ6sj9mfQM.BYEgJO.fE.AAA.0.0.BYEgJ5.AWVixD2z" "25-Jan-2017 13:34:50.00 GMT" "/" ".facebook.com" nil]))
+)
+(setq url-cookie-secure-storage
+ '((".facebook.com"
+  [url-cookie "lu" "ghWosvdySd4p7qfz1ZzOYwBQ" "27-Oct-2018 13:34:49.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "pl" "n" "25-Jan-2017 13:34:50.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "s" "Aa60LA72mgAPhkMO.BYEgJ6" "25-Jan-2017 13:34:50.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "xs" "161%3A3x2M7gE47PBI0Q%3A2%3A1477575289%3A11817" "25-Jan-2017 13:34:50.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "c_user" "100000894999562" "25-Jan-2017 13:34:50.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "httponly" nil "27-Oct-2018 13:34:49.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "Max-Age" "63071999" "27-Oct-2018 13:34:49.00 GMT" "/" ".facebook.com" t]
+  [url-cookie "sb" "eQISWI4CleBHehBhkC86GRdJ" "27-Oct-2018 13:34:49.00 GMT" "/" ".facebook.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

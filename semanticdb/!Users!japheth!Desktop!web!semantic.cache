@@ -1,0 +1,25 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+
+    (semanticdb-table "semanticdb-table"
+      :major-mode html-mode
+      :tags 
+        '( ("MR Rol pic" section nil nil [20 526])
+            ("our musician" section (:members 
+              ( ("our musician" section (:members 
+                  ( ("Description" section nil nil [754 910]))                  ) nil [586 910])
+                ("Our Commedian" section (:members 
+                  ( ("Description" section nil nil [1084 1252]))                  ) nil [910 1252])
+                ("Our Porgrammer" section (:members 
+                  ( ("Description" section nil nil [1427 1555]))                  ) nil [1252 1555]))              ) nil [526 1555]))          
+      :file "rol.htm"
+      :pointmax 1555
+      :fsize 1559
+      :lastmodtime '(22569 50068 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!japheth!Desktop!web!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,33 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.io.*" include nil nil [1 18])
+            ("java.util.regex.*" include nil nil [19 44])
+            ("WordBoundary" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [101 114]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [77 537]))                  
+                :type "class")
+                nil [46 540]))          
+      :file "WordBoundary.java"
+      :pointmax 541
+      :fsize 540
+      :lastmodtime '(22880 24521 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!japheth!Desktop!regex!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,154 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/japheth/Desktop/web/eaglesmartwalletClint/Content/" . "css/")
+ ("/Users/japheth/Desktop/eaglesmartwalletClint/" . "Account/")
+ ("/Users/japheth/Desktop/eaglesmartwallet/Content/" . "css/")
+ ("/Users/japheth/Documents/Documents/" . "Adobe/")
+ ("/Users/japheth/sandbox/" . "test.html/")
+ ("/Users/japheth/Documents/Education/WEB-D/WordPress_themeTutorial/" . "power-up-your-portfolio-with-bootstrap-master/")
+ ("/Users/japheth/Documents/Education/WEB-D/" . "WordPress_themeTutorial/")
+ ("/Users/japheth/Documents/Education/" . "WEB-D/")
+ ("/Users/japheth/Documents/" . "Documents/")
+ ("/Users/" . "japheth/")
+ ("/Applications/XAMPP/htdocs/wordpress_theme/wp-content/" . "themes/")
+ ("/Applications/XAMPP/htdocs/wordpress_theme/wp-content/themes/" . "boostrap-protfolio/")
+ ("/Applications/XAMPP/htdocs/wordpress_theme/" . "wp-content/")
+ ("/Users/japheth/Desktop/" . "eaglesmartwalletClint/")
+ ("/Applications/XAMPP/htdocs/" . "CRUD/")
+ ("/Applications/XAMPP/" . "htdocs/")
+ ("/Applications/" . "XAMPP/")
+ ("/" . "home/")
+ ("/Users/japheth/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/japheth/"
+ "/Users/japheth/Desktop/web/eaglesmartwalletClint/"
+ "/Users/japheth/Desktop/web/eaglesmartwalletClint-updateTuesday/"
+ "/Applications/XAMPP/htdocs/CRUD/"
+ "/Users/japheth/Desktop/web/"
+ "/Users/japheth/Desktop/eaglesmartwalletClint/"
+ "/Users/japheth/Desktop/web/eaglesmartwalletClint/Content/css/"
+ "/Users/japheth/Desktop/eaglesmartwallet/"
+ "/Users/japheth/Desktop/eaglesmartwallet/Content/css/"
+ "/Applications/XAMPP/htdocs/eaglesmartwallet/"
+ "/Users/japheth/Desktop/"
+ "/Users/japheth/Documents/"
+ "/Users/japheth/.emacs.d/"
+ "/Users/japheth/sandbox/test.html/"
+ "/Users/japheth/sandbox/"
+ "/Users/japheth/Desktop/setaWebsite, backup and updates/"
+ "/"
+ "/Users/japheth/Documents/Education/WEB-D/WordPress_themeTutorial/power-up-your-portfolio-with-bootstrap-master/"
+ "/Applications/XAMPP/htdocs/wordpress_theme/wp-content/themes/boostrap-protfolio/"
+ "/Applications/XAMPP/htdocs/wordpress_theme/"
+ "/Applications/XAMPP/htdocs/wordpress_theme/wp-content/"
+ "/Users/japheth/Desktop/python/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "summary.html"
+ "investmentplan.html"
+ "payment.html"
+ "paymentmethod.html"
+ "personaldetails.html"
+ "investment.html"
+ "crud-mysqli.php"
+ "test.php"
+ "investment.css"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/japheth/Desktop/" (22500 38694 0 0) "~$T_TTr for additional battery of generatorCUONG.doc" "~$15 Quick Start.docx" "Work.mp4" "wordpress_plugins_for_Bloging.txt" "WebObjects Enterprise Objects Programming Guide (Legacy).pdf" "web/" "Thumbs.db" "Test.java" "setaWebsite, backup and updates/" "Screen Shot 2016-09-17 at 8.55.05 PM.jpg" "python/" "package.elc" "OrderOfAndroidTutorialVideos/" "order Code name cheap" "oracleSQL/" "ochem.pdf" "Next Generation Web Application Architecture.pdf" "IDCARDPHOTOCOPY/" "icons/" "Git.jpg" "EmacsDotFile/" "Emacs.pdf" "Emacs/" "eaglesmartwalletClint/" "eaglesmartwallet 2/" "eaglesmartwallet/" "desktop.ini" "compile c++" "competition/" "BusinessLogic.pdf" "arkmenger/" "ALevelOlevel/" "02_chapter2.pdf" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/japheth/Desktop/web/" (22498 26636 0 0) "~$_stathis_sideris.doc" "zukerberg.jpg" "YOU COVERED ME - Dr. R.A. Vernon & 'The Word' Church Praise Team, Timothy Reddick Lead.mp4" "Writing Games with Emacs.mp4" "wp-automatic.zip" "wordpress-4.5.3.zip" "wordpress/" "woman_gives_birth_on_grass.jpg" "websiteBackups/" "vlc-2.2.2.dmg" "videoplayback.mp4" "usingEmacs/" "Un_spectateur_agressé_au_stade_municipal_de_Bafang_800xyyy.jpg" "ummy_1.42.dmg" "umh391.mid" "twins.jpg" "Thumbs.db" "thing.java~" "thing.java" "thing.class" "TestJava.java~~" "TestJava.java~" "TestJava.java" "test.py~" "test.py" "test.php" "test.html" "TeamViewer.dmg" "summary.html" "steve_wozniak.jpg" "Squirting.jpg" "something.xml" "REPAIR_Application-form2016_2017.doc" "REPAIR_Application-form2016_2017 (1).doc" "Red_Ribbon.svg.png" "Red_Ribbon.jpg" "pinpoint30rc3.dmg" "paul_biya_conseil_ministres_09122014_005_ns_600_800xyyy.jpg" "orca_share_media1471289491064.opus" "onepageWebsite/" "notebook.jpeg" "Noah's_ark.jpg" "nigeria_chickensafp.jpg" "newseta/" "namecheap-order-22361688.pdf" "moe-theme.el-master.zip" "moe-theme.el-master/" "michelObamaVs.jpg" "man_destroys_belongings.jpg" "Logo.png" "limbeomnisportstadium1.jpg" "Koffi_olomide.jpg" "Infinix-Hot-2.jpg" "How to Make Android Apps 23.mp4" "How to Make Android Apps 12 Multiple Fragment Layouts.mp4" "How to Make Android Apps 11 Multipane Fragment Example.mp4" "HIV-vaccine-trial-to-start-in-South-Africa-later-this-year.jpg" "helm/" "GSpot.jpg" "francistaiwo.jpg" "first.cpp~" "first.cpp" "Female_anatomy_with_g-spot-nb.svg" "evan.jpg" "emploi_cameroun.jpg" "Emacs#/" "Eben - Victory [Official Video].mp4" "eaglesmartwalletClint.zip" "eaglesmartwalletClint-updateTuesday.zip" "eaglesmartwalletClint/" "Donald_Trump_2016_rtr_img1.jpg" "cv_stathis_sideris.doc" "clickwave.zip" "CameroonNationTeam.jpg" "boysfather.jpg" "Beniton aka Jackfrostt - Wine like that - One dance Unofficial remix ft @FierceNinja (Viral Video).mp4" "Beniton Aka Jack Frost - Work (InstaMix Extended) - May 2016.3gp" "alex_song.jpg" "aidsconference_durban.jpg" "Achalle_feature_image.jpg" "Achalle1.jpg" "Achalle.gif" "abubaka.jpg" "about.txt~" "a.out" "7.jpg" "13728994_1724015084523679_1929173142631100301_n.jpg" "13686780_1251307028247918_3062167055320362113_n.jpg" "13634694_104999173269411_2107213954_n.mp4" ".DS_Store" ".#TestJava.java~" ".#Test.java" ".#something.xml" ".#keyboards" "#TestJava.java~#" "#test.php#" "#Test.java#" "#something.xml#" "#keyboards#" "../" "./")
+
+ ("/Users/japheth/Desktop/web/eaglesmartwalletClint/" (22498 28015 0 0) "summary1.html" "summary.html~" "summary.html" "post.html" "personaldetails.html~" "personaldetails.html" "paymentmethod.html~" "paymentmethod.html" "payment.html~" "payment.html" "investmentplan.html~" "investmentplan.html" "investment.html~" "investment.html" "index.html~" "index.html" "index-2.html" "Home/" "favicon.html" "detail.html" "Content/" "basket.html" "Account/" ".DS_Store" "#summary1.html#" "#payment.html#" "../" "./")
+
+ ("/Users/japheth/" (22498 21178 0 0) "Zend/" "Wine Files/" "urlcontent" "tutspython/" "text1.dat" "text.dat" "test.py~" "test.py" "test.db" "Test.class" "sandbox/" "Samsung/" "readme.org" "pygame/" "Public/" "Projects/" "PlayGround/" "Pictures/" "pgadmin.log" "perl5/" "NetBeansProjects/" "Netbeans_Projects/" "Music/" "Movies/" "Memeo Backups/" "Library/" "JavaGame.java~" "JavaGame.java" "JavaGame.class" "JavaEE/" "introcs/" "init.el~" "init.el" "infinite" "IdeaProjects/" "hpc-gcc/" "Google Drive/" "GNS3/" "foo" "emacs-starter-kit-master/" "emacs/" "eclipse-jee-luna-SR1a-macosx-cocoa-x86_64.tar.gz" "eclipse/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "demonstration.java" "CeCe Winans- I Promise (Wedding Song).mp4" "calories.java" "calories.class" "Applications (Parallels)/" "Applications/" "apache-tomcat-8.0.18/" "AndroidStudioProjects/" "android-sdk-macosx/" ".zs" ".ZendStudio/" ".zend/" ".Xmodmap" ".Xcode/" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".vnc/" ".viminfo" ".Trash/" ".swp" ".swo" ".swn" ".subversion/" ".sublime/" ".sqlite_history" ".smex-items" ".Rsupport/" ".rnd" ".python_history" ".profile" ".pgpass" ".perlbrew/" ".oracle_jre_usage/" ".npm/" ".netToolsHistory" ".netToolsColorThemes" ".netbeans-derby/" ".nchsoftware/" ".mysql_history" ".mplayer/" ".matplotlib/" ".m2/" ".local/" ".keepassx/" ".jrebel/" ".idlerc/" ".hello.py.swp" ".gradle/" ".gns3/" ".gitconfig" ".fontconfig/" ".filezilla/" ".esets/" ".emulator_console_auth_token" ".emacs~" ".emacs.d/" ".emacs" ".eclipse_keyring" ".eclipse/" ".dvdcss/" ".DS_Store" ".dropbox/" ".drjava" ".demonstration.java.swp" ".dbus-keyrings/" ".cups/" ".config/" ".codeintel/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_sessions/" ".bash_prompt" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".appletviewer" ".AndroidStudio2.1/" ".android/" ".aliases" ".adobe/" "#demonstration.java#" "#.emacs#" "../" "./")
+
+ ("/Users/japheth/Desktop/web/eaglesmartwalletClint-updateTuesday/" (22497 19038 0 0) "summary1.html" "summary.html~" "summary.html" "post.html" "personaldetails.html~" "personaldetails.html" "paymentmethod.html~" "paymentmethod.html" "payment.html~" "payment.html" "investmentplan.html~" "investmentplan.html" "investment.html~" "investment.html" "index.html~" "index.html" "index-2.html" "Home/" "favicon.html" "detail.html" "Content/" "basket.html" "Account/" ".DS_Store" ".#payment.html" "#summary1.html#" "#payment.html#" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/CRUD/" (22497 33785 0 0) "css/" "crud.php" "crud-mysqli.php~" "crud-mysqli.php" "assets/" ".DS_Store" "#crud-mysqli.php#" "../" "./")
+
+ ("/home/" (22493 16607 19692 0) "../" "./")
+
+ ("/Users/japheth/Desktop/web/eaglesmartwalletClint/Content/css/" (22497 16053 0 0) "style.default.css~" "style.default.css" "owl.theme.css" "owl.carousel.css" "investment.css~" "investment.css" "home_new.css" "grabbing.html" "fonts/" "font-awesome.css" "custom.css" "bootstrap.min.css" "animate.min.css" "../" "./")
+
+ ("/Users/japheth/Desktop/web/eaglesmartwalletClint/Content/" (22495 42972 0 0) "js/" "img/" "fonts/" "css/" "../" "./")
+
+ ("/Users/japheth/Desktop/eaglesmartwallet/" (22497 3083 0 0) "summary.html~" "summary.html" "post.html" "investment.html~" "investment.html" "index.html~" "index.html" "index-2.html" "Home/" "favicon.html" "detail.html" "Content/" "basket.html" "Account/" ".DS_Store" "../" "./")
+
+ ("/Users/japheth/Desktop/eaglesmartwalletClint/" (22497 13829 0 0) "summary.html~" "summary.html" "post.html" "personaldetails.html~" "personaldetails.html" "paymentmethod.html" "payment.html" "investmentplan.html" "investment.html~" "investment.html" "index.html~" "index.html" "index-2.html" "Home/" "favicon.html" "detail.html" "Content/" "basket.html" "Account/" ".DS_Store" "../" "./")
+
+ ("/Users/japheth/Desktop/eaglesmartwalletClint/Account/" (22495 64556 0 0) "Register.html" "Login.html" "index.html" "favicon.html" "contact.html" "basket.html" "../" "./")
+
+ ("/Users/japheth/.emacs.d/" (22495 56324 0 0) "url/" "tutorial/" "snippets/" "semanticdb/" "README.md" "moe-theme.el/" "lisp/" "init.el~" "init.el" "ido.last~" "ido.last" "games/" "eshell/" "emacs-starter-kit" "elpa/" "auto-save-list/" "ac-comphist.dat" "abbrev_defs" "#README.md#" "../" "./")
+
+ ("/Users/japheth/Desktop/eaglesmartwallet/Content/css/" (22495 50389 0 0) "style.default.css~" "style.default.css" "owl.theme.css" "owl.carousel.css" "home_new.css" "grabbing.html" "fonts/" "font-awesome.css" "custom.css" "bootstrap.min.css" "animate.min.css" "../" "./")
+
+ ("/Users/japheth/Desktop/eaglesmartwallet/Content/" (22495 42972 0 0) "js/" "img/" "fonts/" "css/" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/eaglesmartwallet/" (22495 46447 0 0) "post.html" "investment.html" "index.html~" "index.html" "index-2.html" "Home/" "favicon.html" "detail.html" "Content/" "basket.html" "Account/" ".DS_Store" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/" (22495 43206 0 0) "xampp/" "wordpress_theme/" "wordpress/" "widget_corp1/" "widget_corp-final/" "widget_corp/" "webalizer/" "TestWebsite/" "test/" "SID/" "robinsnest/" "realworldphpprogramming/" "phptest/" "phpmysql/" "phpMyAdmin/" "phpdebugging/" "PHP_sandbox/" "php_register/" "photo_gallery/" "NGO_Project/" "learning/" "jQuerytut/" "jquery/" "jfa_app/" "jfa/" "jaywork/" "JayTemplate/" "index.php" "img/" "greenlight/" "favicon.ico" "eaglesmartwallet/" "CRUD/" "ci_tuts/" "ci/" "CamConnect/" "bnb/" "bitnami.css" "applications.html" "ajax/" ".DS_Store" "../" "./")
+
+ ("/Applications/" (22474 60501 0 0) "Xcode.app/" "XAMPP/" "Xamarin Studio.app/" "WinRAR.app/" "WhatsApp.app/" "VMware Fusion.app/" "VLC.app/" "Viber.app/" "uTorrent.app/" "Utilities/" "unetbootin.app/" "Twitter.app/" "TorBrowser.app/" "Time Machine.app/" "The Unarchiver.app/" "TextEdit.app/" "TeamViewer.app/" "System Preferences.app/" "Sublime Text (3083).app/" "Sticky Brainstorming Client.app/" "Stickies.app/" "sqlite3" "Solitaire Greatest Hits.app/" "Skype.app/" "Safari.app/" "Remote Mouse.app/" "Remote Desktop Connection.app/" "Reminders.app/" "RealPlayer Downloader.app" "QuickTime Player.app/" "Python 3.4/" "Pushbullet.app/" "Preview.app/" "PostgreSQL 9.4/" "placeholder.txt" "Photos.app/" "Photo Booth.app/" "Parallels Desktop.app/" "Pages.app/" "Numbers.app/" "Notes.app/" "NetBeans/" "Nation Toolbar Uninstaller.pkg/" "MVLC.app/" "MPlayerX.app/" "Mobizen Viewer/" "Mobizen Plugin/" "Mission Control.app/" "Microsoft Word.app/" "Microsoft Silverlight/" "Microsoft Remote Desktop.app/" "Microsoft PowerPoint.app/" "Microsoft Outlook.app/" "Microsoft OneNote.app/" "Microsoft Excel.app/" "Messages.app/" "MemoryFree 2.app/" "Maps.app/" "MAMP/" "Mail.app/" "Launchpad.app/" "Keynote.app/" "iWeb.app/" "iTunes.app/" "iTerm 2.app/" "iPhoto.app/" "iMovie 9.0.9/" "Image Capture.app/" "iDVD.app/" "iDiagrams.app/" "iChm.app/" "iBSS.n88ap" "iBooks.app/" "HandBrake.app/" "Google Drive.app/" "Google Chrome.app/" "GitHub.app/" "Gimp.app/" "GarageBand.app/" "Game Center.app/" "Font Book.app/" "Flux.app/" "Flip4Mac/" "FirefoxDeveloperEdition.app/" "Firefox.app/" "FileZilla.app/" "FaceTime.app/" "Evernote.app/" "emacs/" "Eclipse.app/" "eclipse/" "EasySIMBL.app/" "EasyDuplicateFinder" "DVD Player.app/" "Dropbox.app/" "DrJava.app/" "DiskMaker X 5.app/" "DiskMaker X 4b4.app/" "Disk Inventory X.app/" "Dictionary.app/" "Database.app/" "Data Rescue 3.app/" "Dashboard.app/" "Cyberduck.app/" "CronniX.app/" "Contacts.app/" "CodeRunner.app/" "CodeBlocks.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Caffeine.app/" "Burn.app/" "BUFFALO/" "Brackets.app/" "Bible Study.app/" "BetterSnapTool 2.app/" "Automator.app/" "Audacity/" "Application Loader.app/" "AppCleaner.app/" "App Store.app/" "apache-tomcat-7.0.55/" "Angry IP Scanner.app/" "Android Studio.app/" "Android File Transfer.app/" "Alarm Clock.app/" "Adobe Premiere Pro CS6/" "Adobe Photoshop CS6/" "Adobe Media Encoder CS6/" "Adobe Flash CS6/" "Adobe Flash Builder 4.6/" "Adobe Extension Manager CS6/" "Adobe Dreamweaver CS6/" "Adobe Bridge CS6/" "Adobe Audition CS6/" "Adobe After Effects CS6/" "Adobe Acrobat X Pro/" "Adobe/" "Adium.app/" "Adapter.app/" ".Wineskin2/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/japheth/Desktop/oracleSQL/" (22360 35678 0 0) "07 Comparison Operators/" "06 Restrict Data Where/" "05 Retrieve Data from Database Select/" "04 Understand our Database Model/" "03 Database Concepts/" "02 Setup Installation/" "01 Introduction/" "../" "./")
+
+ ("/Users/japheth/Documents/" (22493 20655 0 0) "workspace/" "WORKSHOP/" "Wondershare Free YouTube Downloader/" "WirelessDiagnostics-C02GD3GMDRJ7-20140430125952.tar.gz" "whenYouFallLyrics.txt" "VoiceMailNumber" "Visual Studio 2015/" "Visual Studio 2013/" "Visual Studio 2010/" "Visual Studio 2005/" "Virtual Machines.localized/" "ViberDownloads/" "Use_Case_Template.pdf" "use case.pdf" "Use case POS.pdf" "USB_Backup/" "Untitled.rtf" "untitled folder/" "Untitled 6.txt" "TransparencySettings.txt~" "TransparencySettings.txt" "Thumbs.db" "testToTryjava.txt" "Test1.java" "test.txt" "test.js~" "test.js" "stuffToDownload.rtf" "SQL Server Management Studio/" "Someone's knocking at your door" "software/" "Smadav 2013 .txt" "ServerLink.txt" "Screen Shot 2014-03-28 at 7.27.11 AM (2).png" "Scanned Documents/" "Rev_Etuba, installs and accounts" "RecursiveFunctions" "RDC Connections/" "rc024-corejava_online.pdf" "programming_languages_to_master2015" "po_box_address.text" "PickUpPgrogramming" "PhoneBackup/" "passwords_tata.txt" "Parallels/" "OfficeWork/" "New folder/" "myProjecst.txt" "MyPlayground.playground/" "myPasswords" "myGameIdea.txt" "Monday Jun 27 Work Day" "Microsoft User Data/" "MessageTitle.txt" "MacDevelopment/" "Lynda.com - Foundations of Programming Object-Oriented Design/" "lucky copy.rtf" "larry/" "Lambda_Expressions_Explaination" "l'enfant.txt" "July_August 2014 - Download.pdf" "Je leve les yieux lyrics" "javaSscriptTips/" "JavaEE/" "japheth_updated(1).docx" "Integration Services Script Task/" "Integration Services Script Component/" "Info copy.plist" "html5_cheatsheets/" "How-to-setup-SiteFolder.txt" "hosts .txt" "Games/" "Fully Dressed Use Case Example.pdf" "Friends.txt" "Friday_service_Bamenda.txt" "freeCodingSchools" "FileZilla_3.21.0_macosx-x86.app.tar.bz2" "FileZilla_3.20.1_macosx-x86.app.tar.bz2" "Fax/" "EmacsDotFiles/" "Electronic Diversity Visa Lottery_files/" "Electronic Diversity Visa Lottery.html" "Education/" "dumps/" "Documents/" "Digital Editions/" "desktop_data/" "desktop.ini" "desktop.aup" "connection.txt" "Computer Algebra,Algorithms n apps.pdf" "colors-in-css.txt" "ChurchProperties(media)" "choir.aup" "ChinaDevices" "Carines Registration number and information.txt" "Carine/" "Burn Temporary.localized/" "Books to read for C++" "BM15 Quick Start.docx" "BestWordPressThemes.txt" "AutoProxyconfigNexttel" "Assignment_From_Boss.txt" "apk_download_links" "AndroidMemoryCard/" "Adobe Flash Builder 4.6/" "Adobe/" "Achu's Address for use" "1450438890_io-github-yas99en-moreemacsnb-core.nbm" ".parallels-vm-directory/" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/japheth/Documents/EmacsDotFiles/" (22472 12818 0 0) "emacsdotfile.el" "../" "./")
+
+ ("/Users/japheth/Documents/Documents/Adobe/" (20933 37220 0 0) "Premiere Pro/" "../" "./")
+
+ ("/Users/japheth/Documents/Documents/" (22415 10983 0 0) "yoomee.pdf" "workspace/" "Virtual Machines.localized/" "TheBloodWouldNeverl.rtf" "stuff to buy.docx" "song_chords.rtf" "RDC Connections/" "Questions2checkOnline.rtf" "prend mes ambitions.rtf" "Personality_test.rtf" "path2Dynamips.rtf" "passwords.rtf" "Outlook Temp/" "order_primitive.rtf" "Oneke's-work.doc" "Nouveau_Depart.rtf" "My JobDescription.rtf" "My Great DVD.dvdproj/" "Microsoft User Data/" "last_list.rtfd/" "InitialConfig.rtf" "GoodTalk.rtf" "Games_for_mac.rtf" "Facebook.rtf" "Everybodyneeds.rtf" "Education/" "Données utilisateurs Microsoft/" "Debate(Round table conference).rtf" "church.rtf" "BGP_BESTPATH.rtf" "apple ID.rtf" "Adobe/" "adapters.rtf" ".DS_Store" "../" "./")
+
+ ("/Users/japheth/emacs/" (22018 23672 0 0) "test/" "src/" "README" "oldXMenu/" "nt/" "nextstep/" "msdos/" "Makefile.in" "Makefile" "make-dist" "m4/" "lwlib/" "lisp/" "lib-src/" "lib/" "leim/" "INSTALL.REPO" "INSTALL" "info/" "GNUmakefile" "etc/" "doc/" "COPYING" "CONTRIBUTE" "configure.ac" "configure" "config.status" "config.log" "config.bat" "ChangeLog.2" "ChangeLog.1" "build-aux/" "BUGS" "automake-1.14.tar.gz" "automake-1.14/" "autom4te.cache/" "autogen.sh" "autoconf/" "admin/" "aclocal.m4" ".gitignore" ".gitattributes" ".git/" ".dir-locals.el" "../" "./")
+
+ ("/Users/japheth/sandbox/" (22464 6703 0 0) "test.html/" "ep004/" "../" "./")
+
+ ("/Users/japheth/sandbox/test.html/" (22464 6522 0 0) "../" "./")
+
+ ("/Users/japheth/Desktop/setaWebsite, backup and updates/" (22454 850 0 0) "wp-config.php" "Work to be updated.txt" "backup.css" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/wordpress_theme/wp-content/themes/boostrap-protfolio/" (22449 61294 0 0) "style.css~" "style.css" "screenshot.png" "index.php~" "index.php" "header.php~" "header.php" "../" "./")
+
+ ("/Users/japheth/Documents/Education/WEB-D/WordPress_themeTutorial/power-up-your-portfolio-with-bootstrap-master/" (22449 61292 0 0) "robots.txt" "README.md" "js/" "index.html~" "index.html" "img/" "humans.txt" "favicon.ico" "doc/" "css/" "crossdomain.xml" "contact.html" "bower_components/" "blog.html" "apple-touch-icon-precomposed.png" "404.html" "../" "./")
+
+ ("/Users/japheth/Documents/Education/WEB-D/WordPress_themeTutorial/" (22449 27523 0 0) "wordpress_theme/" "wordpress-4.5.3.zip" "power-up-your-portfolio-with-bootstrap-master.zip" "power-up-your-portfolio-with-bootstrap-master/" "Keiso_tpbwtwb/" ".DS_Store" "../" "./")
+
+ ("/Users/japheth/Documents/Education/WEB-D/" (22449 26681 0 0) "wp-plugins/" "wp-automatic.zip" "Working Files/" "WordPress_themeTutorial/" "windows_8_training/" "WEB BUILDING/" "w3shools/" "VideoEditting/" "valles/" "Templates/" "ServerSQL/" "PHP and MySQL /" "Node/" "Learning PHP,MySQL, JavaScript - Robin Nixon(1)/" "Javascript/" "HTML/" "Hello Miss Rita.docx" "Graphic-Designing/" "GitHub.pdf" "CssNew/" "ContentManagement/" "Animations/" "Access/" ".DS_Store" "../" "./")
+
+ ("/Users/japheth/Documents/Education/" (22439 27504 0 0) "Wiley Cash in on the Coming Real Estate Crash.pdf" "Where_there_is_no_doctor-2011(en)-red.pdf" "Where There Is No Doctor/" "WEB-D/" "Wally /" "VocalTraining/" "valles_pdfs/" "Unit_Testing_in_BlueJ.pdf" "Theo/" "The_BlueJ_Tutorial.pdf" "The Science Of Influence.pdf" "the real book of real estate - robert kiyosaki.pdf" "Swift_Programming/" "Suplemental form.PDF" "Starting Poor Getting Rich.pdf" "SQLEXPR_x64_ENU/" "SQL/" "spanish/" "sheepsmile.jpg" "Sex and Common-Sense Ebook.pdf" "SCJP Sun Certified Programmer for Java 6-0071591060.pdf" "science textbookdvd/" "Rich Dad Poor Dad.pdf" "rebuilt.I have always had an interest and enthusiasm in engineering.docx" "Realizing Your Dreams Article Tools.pdf" "Pro C# 2010 and the .NET 4 Platform.pdf" "Presentations/" "os-php-eclipse-pdt-debug-pdf.pdf" "Novels/" "Napoleon Hill - Think and Grow Rich.pdf" "MySQL/" "My interest in science dates back to my school days (Autosaved).docx" "My educational goals and objectives update.docx" "MVC/" "MSOffice_Tuts/" "MiscellanousVids/" "Miscellanous_Data/" "Mega Memory/" "Maximising your potential.pdf" "Magz/" "Letter of Motivation.PDF" "Lambda_Expressions_use.docx" "Kiyosaki, Robert - You Can Choose to be Rich Workbook.pdf" "Jazz Guitar Chord Bible.pdf" "javamagazine20150102-dl.pdf" "JAVA/" "I-20 Shipment Info.pdf" "I-20 Process.pdf" "Hackben/" "Guitar/" "from net/" "foundations-of-strength-1.0.pdf" "ExerciseFilesWorkedOn/" "Entrepreneurship & Business Development/" "EmacsTuts/" "Emacs/" "Editing_Tutorials/" "DOCsnPDFs/" "Digital-Watch_settings.pdf" "Cyst inc/" "CmdLine.txt" "Chapter2.pdf" "C_Sharp_Succinctly.pdf" "C++/" "C#/" "BlueJ_manual.pdf" "BlessGuitar:Nathan/" "9780735638884_files.zip" ".DS_Store" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/wordpress_theme/wp-content/themes/" (22449 25215 0 0) "twentysixteen/" "twentyfourteen/" "twentyfifteen/" "index.php" "boostrap-protfolio/" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/wordpress_theme/wp-content/" (22449 25216 0 0) "uploads/" "themes/" "plugins/" "index.php" "../" "./")
+
+ ("/Users/japheth/Desktop/python/" (22449 25405 0 0) "multichoice.py~" "multichoice.py" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/wordpress_theme/" (22449 25216 0 0) "xmlrpc.php" "wp-trackback.php" "wp-signup.php" "wp-settings.php" "wp-mail.php" "wp-login.php" "wp-load.php" "wp-links-opml.php" "wp-includes/" "wp-cron.php" "wp-content/" "wp-config.php" "wp-config-sample.php" "wp-comments-post.php" "wp-blog-header.php" "wp-admin/" "wp-activate.php" "readme.html" "license.txt" "index.php" ".htaccess" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/jaywork/" (22443 1760 0 0) "index.php~" "index.php" "dbConnection.php" "../" "./")
+
+ ("/Applications/XAMPP/htdocs/JayTemplate/" (21569 24745 0 0) "style.css" "sidebar.php" "Movie Clipping 1" "images/" "home.php" "home.html" "header.php" "footer.php" "contact.php" "about.php" ".DS_Store" "../" "./")
+
+ ("/Applications/XAMPP/" (22333 35857 0 0) "xamppfiles/" "uninstall.app/" "manager-osx.app/" "logs/" "htdocs/" "etc/" "cgi-bin/" "bin/" ".DS_Store" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Applications/XAMPP/xamppfiles/htdocs/robinsnest/" (22418 33870 0 0) "Thumbs.db" "styles.css" "signup.php" "setup.php" "robin.gif" "profile.php" "messages.php" "members.php" "logout.php" "login.php" "javascript.js" "index.php" "header.php" "functions.php" "friends.php" "checkuser.php" ".DS_Store" ".#profile.php" "#profile.php#" "../" "./")
+
+ ("/Users/japheth/Desktop/JsDebugging/" (22411 21617 0 0) "Test.java~" "Test.java" "Test.class" "jquery/" "index.html" "breakpoints.js" ".DS_Store" "../" "./")
+
+ ("/Users/" (22057 23431 0 0) "Shared/" "japheth/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

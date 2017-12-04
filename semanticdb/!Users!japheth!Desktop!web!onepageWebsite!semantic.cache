@@ -1,0 +1,62 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode html-mode
+      :tags 
+        '( ("Wiredwiki App" section nil nil [75 775])
+            ("Navbar -->
+   <nav class=\"navbar navbar-inverse navbar-fixed-top \" id=\"my-navbar\" >
+     <div class=\"container\">
+       <div class=\"navbar-header\">
+	 <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#navbar-collapse\">
+	   <span class=\"icon-bar\">" section (:members 
+              ( ("Wiredwiki" anchor nil nil [1243 1246])
+                ("Download" anchor nil nil [1394 1397])
+                ("Feedback" anchor nil nil [1501 1504])
+                ("Gallery" anchor nil nil [1547 1550])
+                ("Features" anchor nil nil [1591 1594])
+                ("Faq" anchor nil nil [1637 1640])
+                ("Contact Us" anchor nil nil [1673 1676])
+                ("Wiredwiki App" section (:members 
+                  ( ("Download App" anchor nil nil [2039 2042])
+                    ("visit Store" anchor nil nil [2105 2108])
+                    ("Spread the word" anchor nil nil [2170 2173])
+                    ("Feedback <small>Check out the Awesome Feedback" section (:members 
+                      ( ("Subscribe for more free stuff" section nil nil [3610 4351]))                      ) nil [2386 4351])
+                    ("Gallery <small>Check out the Awesome Gallery" section (:members 
+                      ( ("Highway heading" section nil nil [5004 5205])
+                        ("River heading" section nil nil [5205 5403])
+                        ("Street heading" section nil nil [5403 5605])
+                        ("Painting heading" section (:members 
+                          ( ("Carousel -->" anchor nil nil [5732 5735])
+                            ("Carousel -->" anchor nil nil [5894 5897]))                          ) nil [5605 6216]))                      ) nil [4351 6216])
+                    ("Features <small>Some of the coolest Features of this app" section (:members 
+                      ( ("This is the heading" section nil nil [6353 6801])
+                        ("This is the heading" section nil nil [6801 7241])
+                        ("This is the heading" section (:members 
+                          ( ("This is the Heading" section nil nil [7841 8221])
+                            ("This is the Heading" section nil nil [8221 8610])
+                            ("This is the Heading" section nil nil [8610 9005]))                          ) nil [7241 9005]))                      ) nil [6216 9005])
+                    ("FAQ <small>Engaging with consumers" section (:members 
+                      ( ("Question one?" anchor nil nil [9251 9254])
+                        ("Question two?" anchor nil nil [9881 9884])
+                        ("Question three?" anchor nil nil [10508 10511]))                      ) nil [9005 11240])
+                    ("Contact Us <small>contact us for more" section (:members 
+                      ( ("Subscribe for more free stuff" section (:members 
+                          ( ("Twitter" anchor nil nil [13935 13938])
+                            ("Facebook" anchor nil nil [14000 14003])
+                            ("Youtube" anchor nil nil [14062 14065]))                          ) nil [13326 14235]))                      ) nil [11240 14235]))                  ) nil [1883 14235]))              ) nil [775 14235])
+            ("Latest compiled and minified JavaScript -->
+<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\" integrity=\"sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS\" crossorigin=\"anonymous\">" section nil nil [14235 14359])
+            ("" section nil nil [14359 14582]))          
+      :file "template.html"
+      :pointmax 14582
+      :fsize 14581
+      :lastmodtime '(22385 4065 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!japheth!Desktop!web!onepageWebsite!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

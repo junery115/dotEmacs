@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: md
+# key: md
+# --
+public function $2($1){
+   $1;
+}

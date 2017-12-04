@@ -1,0 +1,3 @@
+(
+ (:id "sha1:01ea62e70ecfa6c56346ba30397b0b29197c8ab4" :fingerprint "sha1:ab:a6:d7:6a:b3:d3:63:fa:19:0d:65:41:60:23:6e:ef:d3:2a:46:dc" :host "www.marmalade-repo.org:443" :conditions (:unknown-ca :invalid))
+)

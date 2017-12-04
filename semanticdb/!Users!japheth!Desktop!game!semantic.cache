@@ -1,0 +1,14 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags nil
+      :file "Test.java"
+      :pointmax 3
+      :unmatched-syntax '((DIV 3 . 4) (RBRACE 3 . 4))))
+  :file "!Users!japheth!Desktop!game!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

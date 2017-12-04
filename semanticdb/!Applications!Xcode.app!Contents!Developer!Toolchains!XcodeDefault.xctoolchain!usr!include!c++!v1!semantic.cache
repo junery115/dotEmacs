@@ -1,0 +1,54 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode c++-mode
+      :tags 
+        '( ("_LIBCPP_IOSTREAM" variable (:constant-flag t) nil [406 422])
+            ("__config" include (:system-flag t) nil [732 751])
+            ("ios" include (:system-flag t) nil [752 766])
+            ("streambuf" include (:system-flag t) nil [767 787])
+            ("istream" include (:system-flag t) nil [788 806])
+            ("ostream" include (:system-flag t) nil [807 825])
+            ("cin" variable (:type ("istream" type (:type "class") nil nil)) nil [964 976])
+            ("cout" variable (:type ("ostream" type (:type "class") nil nil)) nil [1001 1014])
+            ("cerr" variable (:type ("ostream" type (:type "class") nil nil)) nil [1039 1052])
+            ("clog" variable (:type ("ostream" type (:type "class") nil nil)) nil [1077 1090])
+            ("wcin" variable (:type ("wistream" type (:type "class") nil nil)) nil [1115 1129])
+            ("wcout" variable (:type ("wostream" type (:type "class") nil nil)) nil [1154 1169])
+            ("wcerr" variable (:type ("wostream" type (:type "class") nil nil)) nil [1194 1209])
+            ("wclog" variable (:type ("wostream" type (:type "class") nil nil)) nil [1234 1249]))          
+      :file "iostream"
+      :pointmax 1306
+      :fsize 1305
+      :lastmodtime '(21697 19016 0 0)
+      :unmatched-syntax '((symbol 1251 . 1276) (symbol 1217 . 1233) (EXTERN 1210 . 1216) (symbol 1177 . 1193) (EXTERN 1170 . 1176) (symbol 1137 . 1153) (EXTERN 1130 . 1136) (symbol 1098 . 1114) (EXTERN 1091 . 1097) (symbol 1060 . 1076) (EXTERN 1053 . 1059) (symbol 1022 . 1038) (EXTERN 1015 . 1021) (symbol 984 . 1000) (EXTERN 977 . 983) (symbol 947 . 963) (EXTERN 940 . 946) (symbol 911 . 938) (symbol 889 . 902) (symbol 885 . 888) (symbol 878 . 884) (punctuation 877 . 878))
+      :lexical-table 
+        '(("_LIBCPP_IOSTREAM")
+          )
+)
+    (semanticdb-table "semanticdb-table"
+      :file "__config"
+      :fsize 18136
+      :lastmodtime '(21697 19016 0 0))
+    (semanticdb-table "semanticdb-table"
+      :file "ios"
+      :fsize 24838
+      :lastmodtime '(21697 19016 0 0))
+    (semanticdb-table "semanticdb-table"
+      :file "streambuf"
+      :fsize 15756
+      :lastmodtime '(21697 19016 0 0))
+    (semanticdb-table "semanticdb-table"
+      :file "istream"
+      :fsize 49582
+      :lastmodtime '(21697 19016 0 0))
+    (semanticdb-table "semanticdb-table"
+      :file "ostream"
+      :fsize 32238
+      :lastmodtime '(21697 19016 0 0)))
+  :file "!Applications!Xcode.app!Contents!Developer!Toolchains!XcodeDefault.xctoolchain!usr!include!c++!v1!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

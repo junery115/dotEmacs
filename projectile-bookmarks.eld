@@ -1,0 +1,1 @@
+("~/Desktop/some-project/vendor/laravel/framework/src/Illuminate/Routing/" "~/Desktop/some-project/" "~/Desktop/project/")

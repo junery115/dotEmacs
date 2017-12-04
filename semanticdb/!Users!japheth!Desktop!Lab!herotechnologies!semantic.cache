@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode html-mode
+      :tags nil
+      :file "index.html"
+      :pointmax 31027
+      :fsize 31026
+      :lastmodtime '(22551 17021 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!japheth!Desktop!Lab!herotechnologies!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

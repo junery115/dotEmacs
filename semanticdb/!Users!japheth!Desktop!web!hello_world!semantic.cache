@@ -1,0 +1,31 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode c++-mode
+      :tags 
+        '( ("iostream" include (:system-flag t) nil [2 21])
+            ("std" using (:type ("std" type
+                 (:prototype t
+                  :type "namespace")
+                  nil nil)) nil [22 42])
+            ("main" function (:type "int") nil [44 100]))          
+      :file "hello_world.cpp"
+      :pointmax 101
+      :fsize 100
+      :lastmodtime '(22536 36459 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode makefile-bsdmake-mode
+      :tags 
+        '( ("hello_world" function (:arguments ("hello_world.cpp")) nil [1 76]))          
+      :file "makefile"
+      :pointmax 77
+      :fsize 76
+      :lastmodtime '(22536 36631 0 0)
+      :unmatched-syntax '((semantic-list 30 . 35) (bol 30 . 30) (symbol 68 . 79) (symbol 65 . 67) (symbol 48 . 64) (symbol 45 . 47) (symbol 39 . 44) (punctuation 37 . 38) (punctuation 36 . 37) (symbol 35 . 36) (semantic-list 30 . 35) (bol 30 . 30))))
+  :file "!Users!japheth!Desktop!web!hello_world!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

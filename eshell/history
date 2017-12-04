@@ -1,0 +1,128 @@
+./xampp startapache
+sudo ./xampp startapache
+./xampp startmysql
+sudo ./xampp startapmysql
+sudo ./xampp startmysql
+cd ~/Desktop/web/wordpresspi/
+php -S localhost:8000
+cd /Applications/XAMPP/xamppfiles/
+ls
+sudo ./xampp
+sudo ./xampmysql
+sudo ./xamppstartmysql
+sudo ./xampp startmysql
+sudo ./xampp stopmysql
+sudo ./xampp startmysql
+~/Desktop/web/wordpresspi/
+php -S localhost:8000
+sudo ./xampp stopmysql
+a = 25
+echo 25
+echo $a
+javac JavaTest.java 
+javac JavaTest.java 
+java JavaTest
+cd ..
+ls
+touch literals.txt
+grep -E "\." literals.txt 
+grep  "\." literals.txt 
+php -S localhost:8000
+clear
+
+g++ -o main.exe main.cpp
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+./main.exe
+g++ -o main.exe main.cpp 
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.exe
+g++ -o main.exe main.cpp
+./main.ese
+./main.exe
+g++ -o hello.exe hello.c
+gcc -o hello.exe hello.c
+clang hello.c
+ls
+/a.out
+./a.out 
+clang hello.c
+./a.out
+clang hello.c
+./a.out
+clang -o hello hello.c
+./hello
+clear
+
+ls
+rm a.out hello 
+ls
+ls
+rm hello.c\~
+ls
+make hello
+./cc
+ls
+./hello
+touch string.c
+make string
+make string
+make string
+make string
+make string
+./string
+make string
+make string
+makek string
+make string
+./string
+make string
+./string
+make string
+./string
+make string
+string
+./string
+make string
+./string
+make string
+./string
+make string
+./string
+make string
+make string
+./string
+make string
+./string
+make string
+./string
+make string
+./string
+make string
+make string
+./string
+make string
+./string
+cd game
+mkdir game
+mv game.html shapeoverlap.html movementandtime.html game/
+cd game/
+ls
+g++ -o a.exe test.c 
+./a.exe 
+gc -o a.exe test.c 
+gcc -o a.exe test.c 
+./a.exe
